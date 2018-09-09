@@ -18,7 +18,7 @@ using namespace std;
 #define FORB(x, z) for(register int x = z; x >= 1; x --)
 
 #define MIIT map<int, int>::iterator
-#define MCIT map<int, char>::iterator]
+#define MCIT map<int, char>::iterator
 #define MICT map<char, int>::iterator
 #define MIST map<int, string>::iterator
 #define MSIT map<string, int>::iterator
